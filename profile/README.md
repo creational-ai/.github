@@ -1,12 +1,16 @@
 # Creational.ai
 
-**Dominic Chang** is a product engineer and technical leader with 20+ years across gaming, fintech, and AI tooling. He previously led engineering at Cie Games (mobile gaming) and built trading systems at financial institutions. His current focus is AI-native product development -- building tools that make Claude Code and Claude Desktop production-grade.
+**Dominic Chang** is a product engineer with 15+ years across gaming, developer tooling, and AI platforms. He distilled that engineering discipline into [Anvil](https://github.com/creational-ai/anvil), an open-source toolkit that makes Claude Code and Claude Desktop operate like a senior engineer, not a chatbot. Anvil powers everything in this org.
+
+He also owns [MochiBits](https://mochibits.com) -- mobile games with 14 million downloads.
 
 More at [LinkedIn](https://www.linkedin.com/in/docchang/).
 
 ## Projects
 
 - **[Anvil](https://github.com/creational-ai/anvil)** -- Production-grade product engineering toolkit for Claude Code and Claude Desktop. Structured workflows with anti-hallucination stage gates from design through deployment.
+- **Mission Control** -- Project management MCP server with 32 tools. Portfolio tracking through natural conversation with Claude.
+- **Video Professor** -- YouTube transcript extraction MCP service. Cloud-deployed on AWS.
 - **[VisualFlow](https://github.com/creational-ai/visualflow)** -- Visual workflow engine for node-based processing pipelines
 - **[Unity Builds](https://github.com/creational-ai/unity-builds)** -- Unity game build artifacts and distribution
 
