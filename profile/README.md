@@ -1,6 +1,6 @@
 # Creational.ai
 
-**Dominic Chang** is a product engineer with 15+ years across gaming, developer tooling, and AI platforms. He distilled that engineering discipline into [Anvil](https://github.com/creational-ai/anvil), an open-source toolkit that makes Claude Code and Claude Desktop operate like a senior engineer, not a chatbot. Anvil powers everything in this org.
+**Dominic Chang** is a product engineer with 20 years across enterprise software, mobile, and gaming — now building AI-native developer tools. He distilled that engineering discipline into [Anvil](https://github.com/creational-ai/anvil), an open-source toolkit that makes Claude Code and Claude Desktop operate like a senior engineer, not a chatbot. Anvil powers everything in this org.
 
 He also owns [MochiBits](https://mochibits.com) -- mobile games with 14 million downloads.
 
