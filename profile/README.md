@@ -14,4 +14,4 @@ More at [LinkedIn](https://www.linkedin.com/in/docchang/).
 - **[VisualFlow](https://github.com/creational-ai/visualflow)** -- Visual workflow engine for node-based processing pipelines
 - **[Unity Builds](https://github.com/creational-ai/unity-builds)** -- Unity game build artifacts and distribution
 
-Every project in this org was designed and built using Anvil's methodology.
+Every project in this org was designed and built using Anvil's methodology. The name Creational comes from a deeper conviction — trust your heart, pursue your gift, and walk in love. The rest has a way of opening up. "A gift opens the way and ushers the giver into the presence of the great." — Proverbs 18:16
